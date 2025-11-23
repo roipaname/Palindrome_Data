@@ -11,7 +11,7 @@ Description:
         - A SA NDoH-aligned recommendation & treatment plan
 
 Usage:
-    python risk_engine.py plaindrome_data.txt
+    python risk_engine.py palindrome_data.txt
 """
 
 import sys
