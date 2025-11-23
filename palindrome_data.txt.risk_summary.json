@@ -1,0 +1,32 @@
+{
+  "source_file": "palindrome_data.txt",
+  "scores": {
+    "hiv": 100,
+    "mental": 100
+  },
+  "raw_scores": {
+    "hiv": 3825,
+    "mental": 6100
+  },
+  "matches": {
+    "hiv": {
+      "need tests": 85,
+      "need test": 85,
+      "sti": 85
+    },
+    "mental": {
+      "not sure if": 100,
+      "started a few days ago": 100,
+      "a few days": 100,
+      "stressed": 100,
+      "stress": 100,
+      "unsure if i should see someone": 100,
+      "see someone in person": 100
+    }
+  },
+  "urgent_flags": [],
+  "recommendations": [
+    "HIV Risk HIGH: Recommend immediate HIV testing (HTS) and urgent clinical evaluation for PEP if a possible exposure occurred within 72 hours. Offer rapid HIV test now; if negative and exposure within 72 hours, evaluate for Post-Exposure Prophylaxis (PEP). Also initiate partner notification/index testing and discuss PrEP for ongoing risk. (NDOH HTS / PEP / PrEP guidance.)",
+    "Mental-health Risk HIGH (possible suicidality or severe distress): Immediate safety assessment is required. Follow emergency mental-health pathways: implement safety plan, do not leave the person alone, arrange urgent psychiatric/medical assessment or 72-hour involuntary assessment where indicated. (See NDoH emergency mental-health/72-hour assessment guidance.)"
+  ]
+}
